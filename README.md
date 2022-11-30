@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 👨‍💻 All of my projects are available at [ml0516.xyz](ml0516.xyz)
+- 👨‍💻 All of my projects are available at [ml0516.xyz](https://ml0516.xyz)
 
 - 💬 Ask me about **Python**
 

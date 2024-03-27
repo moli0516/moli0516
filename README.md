@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@moli04291244" target="blank"><img src="https://img.shields.io/twitter/follow/@moli04291244?logo=twitter&style=for-the-badge" alt="@moli04291244" /></a> </p>
 
-- 🌱 I’m currently learning **Python, C#**
+- 🌱 I’m currently learning **Python, C#, C++**
 
-- 👨‍💻 All of my projects are available at [ml0516.xyz](https://ml0516.xyz)
+- 👨‍💻 All of my projects are available at [moli0516.github.io](moli0516.github.io)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python & C++**
 
 - 📫 How to reach me **kyeung516@gmail.com**
 

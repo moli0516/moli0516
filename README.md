@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=moli0516&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="moli0516 stats" width="48%" />](https://github-stats-extended.vercel.app/api?username=moli0516&show_icons=true&include_all_commits=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=moli0516&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="moli0516 stats" width="48%" />]
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=moli0516&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=moli0516&layout=compact&langs_count=4&theme=transparent)
 </p>
 

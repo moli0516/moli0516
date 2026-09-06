@@ -1,27 +1,67 @@
-<h1 align="center">Hi 👋, I'm moli!</h1>
-<h3 align="center">A software engineer/A high school student</h3>
+<h1 align="center">Hi 👋, I'm Moli</h1>
+<h3 align="center">Computer Science Undergraduate | Quantitative Analytics & Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moli0516&label=Profile%20views&color=0e75b6&style=flat" alt="moli0516" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@moli04291244" target="blank"><img src="https://img.shields.io/twitter/follow/@moli04291244?logo=twitter&style=for-the-badge" alt="@moli04291244" /></a> </p>
-
-- 🌱 I’m currently learning **Python, C#, C++**
-
-- 👨‍💻 All of my projects are available at [moli0516.github.io](moli0516.github.io)
-
-- 💬 Ask me about **Python & C++**
-
-- 📫 How to reach me **kyeung516@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@moli04291244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@moli04291244" height="30" width="40" /></a>
-<a href="https://instagram.com/_ml.16__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ml.16__" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moli0516&label=Profile%20Views&color=0e75b6&style=flat-square" alt="moli0516" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moli0516&hide=shaderlab,hlsl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="moli0516" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moli0516&show_icons=true&locale=en&theme=tokyonight" alt="moli0516" /></p>
+- 🎓 **CS Undergraduate** focused on Data Science, Machine Learning, and Web Systems.
+- 🤖 **Machine Learning & Analytics**: Building predictive models, quantitative analytics scripts, and feature engineering pipelines using **LightGBM, XGBoost, and Pandas**.
+- 🌐 **Web Development**: Designing modern web applications and database architectures using **Next.js, PostgreSQL, and Supabase**.
+- 💻 **Software Engineering**: Proficient in **Python, C++, and JavaScript/TypeScript**.
+- 📫 **Contact**: [kyeung516@gmail.com](mailto:kyeung516@gmail.com)
+- 🌐 **Portfolio**: [moli0516.github.io](https://moli0516.github.io)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+**Data Science & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/LightGBM-2B7A78?style=for-the-badge&logo=python&logoColor=white" alt="LightGBM" />
+</p>
+
+**Databases & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moli0516&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="moli0516 stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moli0516&hide=shaderlab,hlsl&layout=compact&theme=tokyonight&hide_border=true" alt="moli0516 top langs" width="48%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/@moli04291244" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/_ml.16__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
